@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.dpv</groupId>
-	<artifactId>entregable04</artifactId>
+	<artifactId>Bootcamp_Entregable04</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>entregable03</name>
+	<name>entregable04</name>
 	<description>Demo project for Spring Boot</description>
 	<packaging>pom</packaging>
 	<url/>
@@ -34,6 +34,7 @@
 	<modules>
 		<module>CustomerMs</module>
 		<module>AccountMs</module>
+		<module>TransactionMs</module>
 	</modules>
 
 	<dependencies>
